@@ -48,6 +48,5 @@ def calculator():
 while True:
     calculator()
     restart = input('Do you want to restart? (y/n): ')
-    if .lower() != 'y':
+    if results.lower() != 'y':
         break
-#lines from 48 to 52 are ai generated so thats why theres a mistake in line 51.
